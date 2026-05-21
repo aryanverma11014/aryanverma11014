@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Verma</h1>
 
 <h3 align="center">
-Backend Developer in Progress 🚀
+Backend Developer in Progress 
 </h3>
 
 <p align="center">
@@ -10,7 +10,7 @@ Passionate about Backend Development, TypeScript, SQL and building real-world pr
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - TypeScript
 - Node.js
 - SQL
@@ -19,7 +19,7 @@ Passionate about Backend Development, TypeScript, SQL and building real-world pr
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 - JavaScript
 - TypeScript
 - Node.js
@@ -28,7 +28,7 @@ Passionate about Backend Development, TypeScript, SQL and building real-world pr
 
 ---
 
-## 📌 Current Goals
+##  Current Goals
 - Build strong backend projects
 - Learn scalable backend systems
 - Create a professional developer portfolio
@@ -36,14 +36,14 @@ Passionate about Backend Development, TypeScript, SQL and building real-world pr
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 - Task Manager API
 - Authentication System
 - Expense Tracker
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 - GitHub: https://github.com/aryanverma11014
 - Portfolio: Coming Soon 👀
 
