@@ -32,15 +32,6 @@ Passionate about Backend Development, TypeScript, SQL and building real-world pr
 
 ---
 
-## 🎯 Current Goals
-
-- 🚀 Build strong backend projects
-- ⚡ Learn scalable backend systems
-- 🌐 Create a professional developer portfolio
-- 📈 Contribute consistently on GitHub
-
----
-
 ## 🔥 Featured Projects
 
 - 📋 Task Manager API
