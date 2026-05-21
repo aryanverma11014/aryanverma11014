@@ -21,12 +21,14 @@ Passionate about Backend Development, TypeScript, SQL and building real-world pr
 
 ---
 
-##  Tech Stack
-- JavaScript
-- TypeScript
-- Node.js
-- SQL
-- Git & GitHub
+## 🚀 Tech Stack
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" /> JavaScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" /> TypeScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18" /> Node.js
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18" /> SQL
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18" /> Git
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18" /> GitHub
 
 ---
 
