@@ -5,7 +5,6 @@
 
 ---
 
-##  Currently Learning
 ## 🌱 Currently Learning
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" /> TypeScript
