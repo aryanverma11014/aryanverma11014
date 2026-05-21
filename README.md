@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Verma</h1>
 
 <h3 align="center">
-Backend Developer in Progress 
+Backend Developer 
 </h3>
 
 <p align="center">
