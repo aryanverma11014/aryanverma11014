@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Aryan%20Verma&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=Aspiring%20Backend%20Developer&descColor=FFFFFF&descAlignY=60" />type=waving&height=250&color=gradient&text=Aryan%20Verma&fontSize=50&fontAlignY=40&desc=Aspiring%20Backend%20Developer&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Aryan%20Verma&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=Aspiring%20Backend%20Developer&descColor=FFFFFF&descAlignY=60" />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;TypeScript+%7C+Node.js+%7C+SQL;Building+Real-World+Projects;Always+Learning+New+Things" />
 </p>
