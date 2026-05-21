@@ -1,4 +1,4 @@
-![Banner](https://your-banner-image-url-here)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Aryan%20Verma&fontSize=50&fontAlignY=40&desc=Aspiring%20Backend%20Developer&descAlignY=60" />
 
 <h1 align="center">Hi 👋, I'm Aryan Verma</h1>
 
