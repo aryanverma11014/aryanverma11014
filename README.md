@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aryan Verma</h1>
 
-<!--
-**aryanverma11014/aryanverma11014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Backend Developer in Progress 🚀
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about Backend Development, TypeScript, SQL and building real-world projects.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently Learning
+- TypeScript
+- Node.js
+- SQL
+- Authentication Systems
+- Backend Architecture
+
+---
+
+## 🚀 Tech Stack
+- JavaScript
+- TypeScript
+- Node.js
+- SQL
+- Git & GitHub
+
+---
+
+## 📌 Current Goals
+- Build strong backend projects
+- Learn scalable backend systems
+- Create a professional developer portfolio
+- Contribute consistently on GitHub
+
+---
+
+## 🔥 Featured Projects
+- Task Manager API
+- Authentication System
+- Expense Tracker
+
+---
+
+## 🌐 Connect With Me
+- GitHub: https://github.com/aryanverma11014
+- Portfolio: Coming Soon 👀
+
+---
+
+<p align="center">
+Learning. Building. Improving every day 🚀
+</p>
