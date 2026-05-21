@@ -11,11 +11,13 @@ Passionate about Backend Development, TypeScript, SQL and building real-world pr
 ---
 
 ##  Currently Learning
-- TypeScript
-- Node.js
-- SQL
-- Authentication Systems
-- Backend Architecture
+## 🌱 Currently Learning
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" /> TypeScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18" /> Node.js
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18" /> SQL
+- 🔐 Authentication Systems
+- 🏗️ Backend Architecture
 
 ---
 
