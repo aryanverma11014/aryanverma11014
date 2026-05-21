@@ -4,15 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;TypeScript+%7C+Node.js+%7C+SQL;Building+Real-World+Projects;Always+Learning+New+Things" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aryan Verma</h1>
 
-<h3 align="center">
-Aspiring Backend Developer
-</h3>
-
-<p align="center">
-Passionate about Backend Development, TypeScript, SQL and building real-world projects.
-</p>
 
 ---
 
