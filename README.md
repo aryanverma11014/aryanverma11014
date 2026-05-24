@@ -38,5 +38,5 @@
 
 ## 🌐 Connect With Me
 
-- 💻 GitHub: [aryanverma11014](https://portfolio-ef1ks9kgm-aryanverma11014s-projects.vercel.app/)
-- 🌍 Portfolio: Coming Soon 🚀
+- 💻 GitHub: [aryanverma11014]
+- 🌍 Portfolio: https://portfolio-ef1ks9kgm-aryanverma11014s-projects.vercel.app/
