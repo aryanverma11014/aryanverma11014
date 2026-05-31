@@ -39,4 +39,4 @@
 ## 🌐 Connect With Me
 
 - 💻 GitHub: [aryanverma11014]
-- 🌍 Portfolio: https://portfolio-ef1ks9kgm-aryanverma11014s-projects.vercel.app/
+- 🌍 Portfolio: portfolio-two-topaz-yr7s818uos.vercel.app
