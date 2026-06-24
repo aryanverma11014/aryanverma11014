@@ -45,6 +45,7 @@
 | [Portfolio](https://github.com/aryanverma11014/portfolio) | Personal portfolio with project showcase, responsive UI, and live deployment. [Live](https://portfolio-two-topaz-yr7s818uos.vercel.app/) | Next.js, TypeScript, Tailwind CSS | Live |
 | [Notes API TypeScript](https://github.com/aryanverma11014/notes-api-typescript) | REST API with MongoDB connection, CRUD routes, and Express backend structure. | TypeScript, Express, MongoDB, Mongoose | Improving |
 | [Student Score Predictor](https://github.com/aryanverma11014/Student-Score-Predictor) | Beginner ML project that predicts student scores from study data. | Python, Pandas, Scikit-Learn, Matplotlib | Learning Project |
+| [House Prediction](https://house-predic-pmveenxvhq77kh5cqp5zdp.streamlit.app/) | ML project that predicts House price on various combined featues. |
 
 ---
 
