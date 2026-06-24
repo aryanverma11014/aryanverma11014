@@ -22,43 +22,36 @@
 <table width="100%">
   <tr>
     <td width="55%" valign="top">
-
-## About Me
-
-```yaml
-name: Aryan Verma
+      <h2>About Me</h2>
+      <pre><code>name: Aryan Verma
 role: Backend Developer
 focus: APIs, Authentication Systems, Database-Driven Apps
-currently_learning: AI/ML with Python & Scikit-Learn
-motto: "I don't just learn - I build, document, and deploy."
-```
-
-- I build backend systems with **TypeScript**, **Node.js**, **Express**, **MongoDB**, and **SQL**.
-- I specialize in **authentication and session management** with practical deployed examples.
-- I am expanding into **AI/ML**, building prediction models and exposing them through APIs.
-- I turn learning projects into clean, documented repositories with live deployments where possible.
-
-</td>
-<td width="45%" valign="top">
-
-## Current Focus
-
-<table>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>REST APIs, auth flows, database-backed services</td>
-  </tr>
-  <tr>
-    <td><strong>AI / ML</strong></td>
-    <td>Prediction models, Scikit-Learn, Python services</td>
-  </tr>
-  <tr>
-    <td><strong>Delivery</strong></td>
-    <td>Readable docs, deployed demos, project polish</td>
-  </tr>
-</table>
-
-</td>
+currently_learning: AI/ML with Python &amp; Scikit-Learn
+motto: "I don't just learn - I build, document, and deploy."</code></pre>
+      <ul>
+        <li>I build backend systems with <strong>TypeScript</strong>, <strong>Node.js</strong>, <strong>Express</strong>, <strong>MongoDB</strong>, and <strong>SQL</strong>.</li>
+        <li>I specialize in <strong>authentication and session management</strong> with practical deployed examples.</li>
+        <li>I am expanding into <strong>AI/ML</strong>, building prediction models and exposing them through APIs.</li>
+        <li>I turn learning projects into clean, documented repositories with live deployments where possible.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h2>Current Focus</h2>
+      <table>
+        <tr>
+          <td><strong>Backend</strong></td>
+          <td>REST APIs, auth flows, database-backed services</td>
+        </tr>
+        <tr>
+          <td><strong>AI / ML</strong></td>
+          <td>Prediction models, Scikit-Learn, Python services</td>
+        </tr>
+        <tr>
+          <td><strong>Delivery</strong></td>
+          <td>Readable docs, deployed demos, project polish</td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
