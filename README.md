@@ -74,5 +74,5 @@
 
 ## Connect With Me
 
-- GitHub: [aryanverma11014](https://github.com/aryanverma11014)
+- GitHub: [aryanverma11014](https://github.com/aryanverma11014).
 - Portfolio: [portfolio-two-topaz-yr7s818uos.vercel.app](https://portfolio-two-topaz-yr7s818uos.vercel.app/)
