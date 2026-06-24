@@ -55,7 +55,7 @@
 - Resume Analyzer AI for extracting skills and suggesting improvements.
 - AI Study Planner that creates personalized study plans from goals and deadlines.
 - Customer Churn Predictor with dataset cleaning, metrics, and a simple UI.
-- Backend + ML integration where a Node.js API calls a Python model service.
+- Backend + ML integration where a Node.js API Calls a Python model service.
 
 ---
 
