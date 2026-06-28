@@ -7,11 +7,11 @@
   ╚══════════════════════════════════════════════════╝
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:042f2e,50:115e59,100:14b8a6&text=Aryan%20Verma&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=Backend%20Developer%20•%20AI%2FML%20Enthusiast%20•%20Final%20Year%20CS&descColor=ccfbf1&descAlignY=58&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:083344,50:155e75,100:06b6d4&text=Aryan%20Verma&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=Backend%20Developer%20•%20AI%2FML%20Enthusiast%20•%20Final%20Year%20CS&descColor=ccfbf1&descAlignY=58&animation=twinkling" />
 
 <p align="center">
   <a href="https://portfolio-two-topaz-yr7s818uos.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/aryanverma11014">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=aryanverma11014&style=for-the-badge&color=115e59&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=aryanverma11014&style=for-the-badge&color=155e75&label=Profile+Views" />
 </p>
 
 <p align="center">
@@ -133,16 +133,16 @@ motto: "I don't just learn — I build it, deploy it, and pin it."
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aryanverma11014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14b8a6&icon_color=2dd4bf&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanverma11014&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14b8a6&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aryanverma11014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&icon_color=22d3ee&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanverma11014&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanverma11014&theme=tokyonight&hide_border=true&background=0D1117&ring=14b8a6&fire=2dd4bf&currStreakLabel=14b8a6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanverma11014&theme=tokyonight&hide_border=true&background=0D1117&ring=06b6d4&fire=22d3ee&currStreakLabel=06b6d4" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanverma11014&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=14b8a6&line=2dd4bf&point=ccfbf1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanverma11014&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06b6d4&line=22d3ee&point=cffafe" />
 </p>
 
 ---
@@ -161,7 +161,7 @@ motto: "I don't just learn — I build it, deploy it, and pin it."
 
 <p align="center">
   <a href="https://portfolio-two-topaz-yr7s818uos.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/aryanverma11014">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -173,4 +173,4 @@ motto: "I don't just learn — I build it, deploy it, and pin it."
 
 <p align="center"><em>💬 I'm open to collaborations, freelance work, and full-time opportunities — let's build something great.</em></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:042f2e,50:115e59,100:14b8a6&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:083344,50:155e75,100:06b6d4&section=footer" />
