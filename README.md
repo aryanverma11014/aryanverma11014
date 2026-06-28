@@ -7,7 +7,7 @@
   ╚══════════════════════════════════════════════════╝
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:083344,50:155e75,100:06b6d4&text=Aryan%20Verma&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=Backend%20Developer%20•%20AI%2FML%20Enthusiast%20•%20Final%20Year%20CS&descColor=ccfbf1&descAlignY=58&animation=twinkling" />
+<img width="100%" src="https://raw.githubusercontent.com/aryanverma11014/aryanverma11014/main/banner.png" alt="Aryan Verma — Backend Developer • AI/ML Enthusiast • Final Year CS" />
 
 <p align="center">
   <a href="https://portfolio-two-topaz-yr7s818uos.vercel.app/">
