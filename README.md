@@ -107,12 +107,12 @@ Hi, I'm **Aryan Verma** — a final year CS student who enjoys building practica
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aryanverma11014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&icon_color=22d3ee&text_color=c9d1d9" alt="Aryan's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanverma11014&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&text_color=c9d1d9" alt="Aryan's top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryanverma11014&theme=github_dark" alt="Aryan's GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryanverma11014&theme=github_dark" alt="Aryan's top languages by repository" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanverma11014&theme=tokyonight&hide_border=true&background=0D1117&ring=06b6d4&fire=22d3ee&currStreakLabel=06b6d4" alt="Aryan's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=aryanverma11014&theme=tokyonight&hide_border=true&background=0D1117&ring=06b6d4&fire=22d3ee&currStreakLabel=06b6d4" alt="Aryan's GitHub streak" />
 </p>
 
 <p align="center">
