@@ -1,176 +1,149 @@
-<!--
-  ╔══════════════════════════════════════════════════╗
-  ║     SUGGESTED GITHUB BIO (Profile Settings)     ║
-  ║                                                  ║
-  ║  Final Year CS • Backend & AI/ML Developer       ║
-  ║  Node.js · Python · TypeScript | Open to Work 🚀 ║
-  ╚══════════════════════════════════════════════════╝
--->
-
-<img width="100%" src="https://raw.githubusercontent.com/aryanverma11014/aryanverma11014/main/banner.png" alt="Aryan Verma — Backend Developer • AI/ML Enthusiast • Final Year CS" />
+<img width="100%" src="https://raw.githubusercontent.com/aryanverma11014/aryanverma11014/main/banner.png" alt="Aryan Verma - Backend Developer, AI/ML Enthusiast, Final Year CS Student" />
 
 <p align="center">
   <a href="https://portfolio-two-topaz-yr7s818uos.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://auth-session-production.up.railway.app">
+    <img src="https://img.shields.io/badge/Live%20Project-Auth%20Session-0891b2?style=for-the-badge&logo=railway&logoColor=white" alt="Auth Session live project" />
   </a>
   <a href="https://github.com/aryanverma11014">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=aryanverma11014&style=for-the-badge&color=155e75&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=aryanverma11014&style=for-the-badge&color=155e75&label=Profile+Views" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Backend+Developer+%7C+Node.js+%2B+TypeScript+%2B+Express;AI%2FML+Engineer+%7C+Python+%2B+TensorFlow+%2B+Scikit-Learn;Building+Production-Ready+APIs+%26+ML+Pipelines;Final+Year+CS+Student+%7C+Open+to+Opportunities+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&center=true&vCenter=true&width=760&lines=Backend+Developer+%7C+Node.js+%2B+TypeScript+%2B+Express;AI%2FML+Learner+%7C+Python+%2B+Scikit-Learn+%2B+TensorFlow;I+build+clean+APIs%2C+auth+systems%2C+and+deployed+projects" alt="Typing animation" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-```yaml
-name: Aryan Verma
-role: Backend Developer & AI/ML Enthusiast
-education: Final Year B.Tech CSE
-location: India
-experience: Intern @ Netcamp Solutions Pvt. Ltd (Android Dev & Networking)
-open_to: Full-time roles in Backend, Full-Stack, and AI/ML
-motto: "I don't just learn — I build it, deploy it, and pin it."
-```
+Hi, I'm **Aryan Verma** — a final year CS student who enjoys building practical software, especially backend APIs, authentication systems, and AI/ML projects.
 
-- 🔧 I build **backend systems** — REST APIs, authentication flows, and database-driven apps with **Node.js, Express, and TypeScript**
-- 🤖 I train **ML models** and ship them as live web apps using **Python, Scikit-Learn, TensorFlow, and Streamlit**
-- 📱 Built Android apps with **Kotlin, Jetpack Compose, and Firebase** during my internship at **Netcamp Solutions Pvt. Ltd, Ghaziabad**
-- 🎯 Final year CS student actively looking for **Backend, Full-Stack, and AI/ML roles**
-- 📦 Every project I build gets a **clean repo, proper README, and a live deployment** — no half-finished repos here
+- I work mostly with **Node.js**, **TypeScript**, **Express**, **Python**, and **SQL/MongoDB**.
+- I like turning ideas into **clean repositories with clear READMEs and live demos**.
+- I am open to **Backend**, **Full-Stack**, and **AI/ML** opportunities.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Build
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center" width="140"><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+    <td width="33%" valign="top">
+      <h3>Backend APIs</h3>
+      <p>REST APIs, Express services, CRUD apps, database-backed systems.</p>
     </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <td width="33%" valign="top">
+      <h3>Auth Systems</h3>
+      <p>Sessions, cookies, protected routes, password hashing, secure flows.</p>
     </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Mobile</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>AI / ML</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/BERT-4285F4?style=flat-square&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+    <td width="33%" valign="top">
+      <h3>AI / ML Apps</h3>
+      <p>Prediction models, Streamlit demos, Python experiments, ML APIs.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | Description | Tech | Links |
+| Project | Why it matters | Stack | Link |
 | --- | --- | --- | --- |
-| 🔐 [Auth Session](https://github.com/aryanverma11014/auth-session) | Full authentication system — sessions, cookies, bcrypt hashing, protected routes | Node.js, Express, SQLite | [**Live →**](https://auth-session-production.up.railway.app) |
-| 🏠 [House Price Predictor](https://github.com/aryanverma11014/House-Prediction) | ML model using Gradient Boosting to predict house prices from multiple features | Python, Scikit-Learn, Streamlit | [**Live →**](https://house-predic-pmveenxvhq77kh5cqp5zdp.streamlit.app/) |
-| 🌐 [Portfolio](https://github.com/aryanverma11014/portfolio) | Personal portfolio — project showcase, responsive design, deployed on Vercel | Next.js, TypeScript, Tailwind CSS | [**Live →**](https://portfolio-two-topaz-yr7s818uos.vercel.app/) |
-| 📝 [Notes API](https://github.com/aryanverma11014/notes-api-typescript) | REST API with full CRUD, MongoDB integration, and clean Express routing | TypeScript, Express, MongoDB | — |
-| 📊 [Student Score Predictor](https://github.com/aryanverma11014/Student-Score-Predictor) | Beginner ML project — predicts student exam scores from study hours data | Python, Pandas, Scikit-Learn | — |
+| [Auth Session](https://github.com/aryanverma11014/auth-session) | Complete authentication project with sessions, cookies, bcrypt, and protected routes. | Node.js, Express, SQLite | [Live Demo](https://auth-session-production.up.railway.app) |
+| [House Price Predictor](https://github.com/aryanverma11014/House-Prediction) | ML app that predicts house prices using multiple input features. | Python, Scikit-Learn, Streamlit | [Live Demo](https://house-predic-pmveenxvhq77kh5cqp5zdp.streamlit.app/) |
+| [Portfolio](https://github.com/aryanverma11014/portfolio) | Personal portfolio with project showcase, responsive UI, and Vercel deployment. | Next.js, TypeScript, Tailwind CSS | [Live Site](https://portfolio-two-topaz-yr7s818uos.vercel.app/) |
+| [Notes API](https://github.com/aryanverma11014/notes-api-typescript) | REST API with MongoDB, CRUD routes, and clean Express structure. | TypeScript, Express, MongoDB | Repo |
+| [Student Score Predictor](https://github.com/aryanverma11014/Student-Score-Predictor) | Beginner-friendly ML project for predicting scores from study data. | Python, Pandas, Scikit-Learn | Repo |
 
 ---
 
-## 📈 GitHub Stats
+## Tech Stack
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aryanverma11014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&icon_color=22d3ee&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanverma11014&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&text_color=c9d1d9" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanverma11014&theme=tokyonight&hide_border=true&background=0D1117&ring=06b6d4&fire=22d3ee&currStreakLabel=06b6d4" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanverma11014&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06b6d4&line=22d3ee&point=cffafe" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
 
-## 🎯 Currently Building & Learning
+## GitHub Stats
 
-- 🧠 **ML Prediction APIs** — training models in Python and exposing them via REST endpoints
-- 📄 **Resume Analyzer AI** — NLP-based skill extraction and improvement suggestions using BERT
-- 🔁 **Backend + ML Integration** — connecting Node.js APIs to Python model microservices
-- 🏗️ **System Design** — learning scalable architecture patterns for production backends
-- 📱 **Android with AI** — on-device ML features using Google ML Kit and Jetpack Compose
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aryanverma11014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&icon_color=22d3ee&text_color=c9d1d9" alt="Aryan's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanverma11014&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&text_color=c9d1d9" alt="Aryan's top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanverma11014&theme=tokyonight&hide_border=true&background=0D1117&ring=06b6d4&fire=22d3ee&currStreakLabel=06b6d4" alt="Aryan's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanverma11014&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06b6d4&line=22d3ee&point=cffafe" alt="Aryan's GitHub activity graph" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## Currently Learning
+
+| Focus | Goal |
+| --- | --- |
+| ML Prediction APIs | Train Python models and expose them through REST endpoints. |
+| Resume Analyzer AI | Extract skills and suggest improvements using NLP. |
+| Backend + ML Integration | Connect Node.js APIs with Python model services. |
+| System Design | Learn scalable backend architecture patterns. |
+| Android with AI | Build mobile features with Jetpack Compose and ML Kit. |
+
+---
+
+## Let's Connect
 
 <p align="center">
   <a href="https://portfolio-two-topaz-yr7s818uos.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/aryanverma11014">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<p align="center"><em>💬 I'm open to collaborations, freelance work, and full-time opportunities — let's build something great.</em></p>
+<p align="center"><em>Open to collaborations, internships, freelance work, and full-time opportunities.</em></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:083344,50:155e75,100:06b6d4&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:083344,50:155e75,100:06b6d4&section=footer" alt="Footer wave" />
